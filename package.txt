@@ -1,5 +1,5 @@
 NAME=elinks
 VERSION=0.13.GIT
-REVISION=2
+REVISION=1
 SRC=http://repo.or.cz/elinks.git
 REF=refs/heads/master
